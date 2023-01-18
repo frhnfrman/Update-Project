@@ -1,0 +1,14 @@
+#with open('Deskripsi.txt','r') as file:
+    #deskripsibrng = file.readlines()
+    #sorted = deskripsibrng.sort()
+    #print(deskripsibrng)
+with open('Deskripsi.txt','a') as file:
+                deskrip_baru="{},{},{},".format(nama_brng,harga_brng,material_brng)
+                file.write("\n")
+                file.write(deskrip_baru)
+                harga=file.redlines()
+                sorted=harga.sort()
+                with open('deskripsi_harga_sort','a') as h:
+                    h.write(sorted)
+
+

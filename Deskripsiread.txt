@@ -1,0 +1,4 @@
+============================================================
+Nama Barang : Tepak Pensil
+Harga Barang : 12000
+Material : Kain Flanel
